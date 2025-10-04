@@ -40,7 +40,7 @@ section{
 
 .page1{
     width: 50vh;
-    
+    height: 100vh;
     background-color:black;
 
     
@@ -132,3 +132,65 @@ h1{
 
 }
 
+
+
+.p3s{
+
+    width: 100%;
+    height: 100vh;
+
+}
+.p3s1c1{
+    width: 50vh;
+    height: 80vh;
+    background-color:antiquewhite;
+
+    
+
+}
+
+.p3c1p1{
+    width: 100%;
+    height: 60%;
+    background-color: transparent;
+
+
+}
+
+.p3c1p2{
+    width: 100%;
+    height: 40%;
+    background-color: aquamarine;
+
+    border-radius: 10% 10% 0 0;
+    
+    padding: 5%
+
+
+}
+
+.p3t1{
+    color:rgb(101, 78, 78)
+
+
+}
+
+
+.p3t2{
+
+    color:rgb(101, 78, 78);
+    padding: 1% 0%;
+    margin: 1% 0%;
+
+}
+
+.p3b1{
+    background-color: white;
+
+    padding: 4% 8%;
+    border: none;
+
+    border-radius: 5px;
+    margin: 2% 0%;
+
+}
