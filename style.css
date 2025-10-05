@@ -10,7 +10,7 @@
 
 header{
     display: flex;
-    padding: 1%;
+    padding: 1% 1% 1% 3%;
 }
 
 .index{
@@ -93,8 +93,7 @@ p{
 .page2{
     width: 100%;
     height: 100vh;
-    background-color: rgb(101, 78, 78);
-
+ 
     display: flex;
     justify-content: center;
 
@@ -151,7 +150,7 @@ h1{
 
 .p3c1p1{
     width: 100%;
-    height: 60%;
+    height: 65%;
     background-color: transparent;
 
 
@@ -159,7 +158,7 @@ h1{
 
 .p3c1p2{
     width: 100%;
-    height: 40%;
+    height: 35%;
     background-color: aquamarine;
 
     border-radius: 10% 10% 0 0;
@@ -194,3 +193,133 @@ h1{
     margin: 2% 0%;
 
 }
+
+
+.p4s1{
+    width: 100%;
+    height: 80vh;
+    
+
+}
+
+.p4c1{
+    width: 50vh;
+    height: 100%;
+    background-color: aqua;
+
+
+}
+
+.p4c1c1{
+    width: 100%;
+    height: 65%;
+    background-color: transparent;
+
+
+}
+
+.p4c1c2{
+    height: 35%;
+    background-color: azure;
+    border-radius: 10% 10% 0 0;
+
+}
+
+.p4t1{
+    color: purple;
+    background-color: transparent;
+    padding: 3% 3% 0 3%;
+
+}
+
+.p4t2{
+    color: black;
+    
+
+}
+
+.p4c1d{
+    display: flex;
+    justify-content: space-around;
+    background-color: transparent;
+
+
+}
+.p4b{
+    padding: 3% 6%;
+    border: gray solid 1px;
+    border-radius: 10%;
+
+    background-color: transparent;
+
+}
+
+.p4b2{
+    background-color: purple;
+    color: white;
+
+}
+
+.p5s{
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+.p5c1{
+    width: 50vh;
+    height: 100%;
+    background-color: rgb(216, 181, 135);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.p5c1c1{
+    width: 80%;
+    height: 25%;
+    background-color: rgb(30, 29, 29);
+
+    padding: 5%;
+    border-radius: 10%;
+
+}
+
+
+.p5t1{
+    background-color: transparent;
+    color: white;
+    margin-bottom: 4%;
+
+}
+
+.p5t2{
+    padding: 0;
+    margin-bottom: 10%;
+    font-size:small;
+
+}
+
+.p5t3{
+    background-color: transparent;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+
+
+
+}
+
+
+.p5b1{
+    background-color: white;
+    margin: 10%;
+    padding: 4% 8%;
+    border: none;
+    border-radius: 15%;
+
+
+}
+
